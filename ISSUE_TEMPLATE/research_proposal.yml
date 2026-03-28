@@ -1,0 +1,91 @@
+name: 🔬 Research Proposal / Experiment
+description: Propose a new research direction, experiment, or academic contribution.
+title: "[Research]: "
+labels: ["research", "proposal", "needs-triage"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Research Proposal 🔬
+        Use this template to propose a new research initiative, experiment, or academic contribution to any AETECH RESEARCH LABS project.
+
+  - type: checkboxes
+    id: preflight
+    attributes:
+      label: Pre-flight Checklist
+      options:
+        - label: I have reviewed existing research in this repository and this is not a duplicate.
+          required: true
+        - label: This proposal is relevant to the scope of this project.
+          required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: Research Title
+      placeholder: "e.g. Evaluating Transformer Architectures for Low-Resource NLP Tasks"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Research Type
+      options:
+        - Experiment / Empirical Study
+        - Literature Review / Survey
+        - New Algorithm / Method
+        - Dataset Creation / Curation
+        - Benchmark / Evaluation
+        - Replication Study
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: background
+    attributes:
+      label: Background & Motivation
+      description: What is the context? Why is this research important or timely?
+    validations:
+      required: true
+
+  - type: textarea
+    id: hypothesis
+    attributes:
+      label: Research Question / Hypothesis
+      description: What specific question are you trying to answer, or what hypothesis are you testing?
+    validations:
+      required: true
+
+  - type: textarea
+    id: methodology
+    attributes:
+      label: Proposed Methodology
+      description: How do you plan to conduct this research? What tools, datasets, or approaches will you use?
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected_outcomes
+    attributes:
+      label: Expected Outcomes / Deliverables
+      description: What do you expect to produce? (e.g., paper, dataset, benchmark, model weights, code)
+
+  - type: textarea
+    id: resources
+    attributes:
+      label: Required Resources
+      description: What compute, data, or other resources are needed?
+
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: List any relevant prior work, papers, or resources (BibTeX or links).
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Notes
