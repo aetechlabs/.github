@@ -1,0 +1,6 @@
+{
+  "name": "Security — CodeQL Analysis",
+  "description": "Automated CodeQL security scanning for vulnerability detection across multiple languages.",
+  "iconName": "octicon shield",
+  "categories": ["Security", "Code Scanning"]
+}
