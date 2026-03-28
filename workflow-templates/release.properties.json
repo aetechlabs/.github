@@ -1,0 +1,6 @@
+{
+  "name": "Release — Semantic Versioning",
+  "description": "Automated release workflow using semantic-release for version management and changelog generation.",
+  "iconName": "octicon tag",
+  "categories": ["Deployment", "Publishing"]
+}
