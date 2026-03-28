@@ -75,8 +75,13 @@ Changes to this repository affect the entire organization. Please follow these g
 |----------|------|
 | Organization Profile | [github.com/aetechlabs](https://github.com/aetechlabs) |
 | Security Reports | [security@aetechlabs.com](mailto:security@aetechlabs.com) |
-| General Contact | [contact@aetechlabs.com](mailto:contact@aetechlabs.com) |
+| Bug Reports | [bugs@aetechlabs.com](mailto:bugs@aetechlabs.com) |
+| Research Inquiries | [research@aetechlabs.com](mailto:research@aetechlabs.com) |
+| GitHub & Open Source | [github@aetechlabs.com](mailto:github@aetechlabs.com) |
+| Contributing Help | [contributing@aetechlabs.com](mailto:contributing@aetechlabs.com) |
+| Enterprise / Business | [contact@aetechlabs.com](mailto:contact@aetechlabs.com) |
 | Org Discussions | [GitHub Discussions](https://github.com/orgs/aetechlabs/discussions) |
+| Social (all platforms) | [@aetechlabs](https://x.com/aetechlabs) |
 
 ---
 
