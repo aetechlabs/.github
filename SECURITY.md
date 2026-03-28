@@ -126,7 +126,11 @@ We do not currently operate a formal bug bounty program. However, we deeply valu
 | Purpose | Contact |
 |---------|---------|
 | Security vulnerabilities | [security@aetechlabs.com](mailto:security@aetechlabs.com) |
-| General inquiries | [contact@aetechlabs.com](mailto:contact@aetechlabs.com) |
+| Bug reports | [bugs@aetechlabs.com](mailto:bugs@aetechlabs.com) |
+| Research inquiries | [research@aetechlabs.com](mailto:research@aetechlabs.com) |
+| GitHub & open source | [github@aetechlabs.com](mailto:github@aetechlabs.com) |
+| Contributing | [contributing@aetechlabs.com](mailto:contributing@aetechlabs.com) |
+| General / enterprise | [contact@aetechlabs.com](mailto:contact@aetechlabs.com) |
 
 ---
 

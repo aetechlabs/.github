@@ -2,10 +2,25 @@ blank_issues_enabled: false
 contact_links:
   - name: 🔒 Security Vulnerability
     url: https://github.com/aetechlabs/.github/blob/main/SECURITY.md
-    about: "Please report security vulnerabilities via our Security Policy — do NOT open a public issue."
+    about: "Please report security vulnerabilities via our Security Policy — do NOT open a public issue. Email: security@aetechlabs.com"
+  - name: 🐛 Bug Reports (Email)
+    url: mailto:bugs@aetechlabs.com
+    about: "Prefer email? Send bug reports directly to bugs@aetechlabs.com"
+  - name: 🔬 Research Inquiries
+    url: mailto:research@aetechlabs.com
+    about: "Questions or proposals related to our research programs."
+  - name: 🔀 Contributing Questions
+    url: mailto:contributing@aetechlabs.com
+    about: "Need help getting started with contributing? Reach out to contributing@aetechlabs.com"
+  - name: 🐙 GitHub & Open Source
+    url: mailto:github@aetechlabs.com
+    about: "Questions about our GitHub presence and open-source projects."
   - name: 💬 General Discussion
     url: https://github.com/orgs/aetechlabs/discussions
     about: "For general questions, ideas, or discussions about our projects."
-  - name: 📧 Contact Us
+  - name: 🏢 Enterprise & Business
     url: mailto:contact@aetechlabs.com
-    about: "Reach out to the AETECH RESEARCH LABS team directly."
+    about: "Enterprise inquiries, partnerships, and business matters."
+  - name: 🌐 Follow Us
+    url: https://x.com/aetechlabs
+    about: "Follow @aetechlabs on X, LinkedIn, Instagram, YouTube, and GitHub for updates."

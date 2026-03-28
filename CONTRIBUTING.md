@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to our projects! 🎉
 
-AETECH RESEARCH LABS LIMITED is a multidisciplinary research and technology organization. We welcome contributions from engineers, researchers, data scientists, technical writers, and anyone passionate about advancing knowledge and building great software.
+AETECH RESEARCH LABS LIMITED is a full-spectrum technology organization — we do research, build production-ready enterprise applications, develop open-source tools, and engineer systems across AI/ML, software engineering, data science, cybersecurity, cloud infrastructure, hardware/IoT, and more.
 
 This document provides guidelines for contributing to **any repository** under our organization. Individual repositories may have additional contribution guidelines — always check the repo-level `CONTRIBUTING.md` if it exists.
 
@@ -65,6 +65,7 @@ There are many ways to contribute:
 |------|-------------|
 | 🐛 **Bug Fixes** | Fix reported issues or ones you discover yourself |
 | ✨ **Features** | Implement new features from open issues |
+| 🏢 **Enterprise Integrations** | Contribute connectors, adapters, or enterprise-grade enhancements |
 | 📖 **Documentation** | Improve or add documentation, READMEs, or guides |
 | 🧪 **Tests** | Add or improve test coverage |
 | 🔬 **Research** | Contribute findings, datasets, or experimental results |
@@ -242,7 +243,17 @@ We value every contribution, no matter how small. Thank you for helping AETECH R
 
 ## Questions?
 
-If you have questions not answered here, open a [Discussion](https://github.com/aetechlabs) in the relevant repository or email [contact@aetechlabs.com](mailto:contact@aetechlabs.com).
+If you have questions not answered here, open a [Discussion](https://github.com/aetechlabs) in the relevant repository or reach out via the appropriate channel:
+
+| Topic | Contact |
+|-------|---------|
+| Contributing & PRs | [contributing@aetechlabs.com](mailto:contributing@aetechlabs.com) |
+| Research & experiments | [research@aetechlabs.com](mailto:research@aetechlabs.com) |
+| GitHub & open source | [github@aetechlabs.com](mailto:github@aetechlabs.com) |
+| Security issues | [security@aetechlabs.com](mailto:security@aetechlabs.com) |
+| Bug reports | [bugs@aetechlabs.com](mailto:bugs@aetechlabs.com) |
+| General / enterprise | [contact@aetechlabs.com](mailto:contact@aetechlabs.com) |
+| Social (all platforms) | [@aetechlabs](https://x.com/aetechlabs) |
 
 ---
 
