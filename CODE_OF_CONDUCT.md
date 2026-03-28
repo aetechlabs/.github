@@ -50,7 +50,9 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 📧 **[security@aetechlabs.com](mailto:security@aetechlabs.com)**
 
-For general community concerns (non-security), you may also reach us at **[contact@aetechlabs.com](mailto:contact@aetechlabs.com)**. All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+For general community concerns (non-security), you may also reach us at **[contact@aetechlabs.com](mailto:contact@aetechlabs.com)**.
+
+All complaints will be reviewed and investigated promptly and fairly. All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
 ---
 
