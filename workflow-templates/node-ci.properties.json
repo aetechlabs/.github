@@ -1,0 +1,6 @@
+{
+  "name": "CI — Node.js",
+  "description": "Standard Node.js CI pipeline with linting, testing, and build verification.",
+  "iconName": "octicon workflow",
+  "categories": ["Testing", "JavaScript", "TypeScript"]
+}
