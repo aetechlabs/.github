@@ -1,0 +1,18 @@
+# Default owners for all files in this repository
+* @aetechlabs/core-team
+
+# Governance and community health files
+/CODE_OF_CONDUCT.md @aetechlabs/core-team
+/CONTRIBUTING.md @aetechlabs/core-team @aetechlabs/engineering
+/SECURITY.md @aetechlabs/infrastructure-security @aetechlabs/core-team
+/PULL_REQUEST_TEMPLATE.md @aetechlabs/core-team @aetechlabs/engineering
+
+# Dependency and release automation
+/dependabot.yml @aetechlabs/infrastructure-security @aetechlabs/engineering
+/workflow-templates/ @aetechlabs/infrastructure-security @aetechlabs/core-team
+
+# Issue forms and templates
+/ISSUE_TEMPLATE/ @aetechlabs/core-team @aetechlabs/engineering
+
+# Public org profile content
+/profile/ @aetechlabs/core-team @aetechlabs/frontend-engineering
