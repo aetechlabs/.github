@@ -12,7 +12,23 @@
 /workflow-templates/ @aetechlabs/infrastructure-security @aetechlabs/core-team
 
 # Issue forms and templates
-/ISSUE_TEMPLATE/ @aetechlabs/core-team @aetechlabs/engineering
+/ISSUE_TEMPLATE/ @aetechlabs/core-team @aetechlabs/engineering @aetechlabs/community-operations
 
 # Public org profile content
-/profile/ @aetechlabs/core-team @aetechlabs/frontend-engineering
+/profile/ @aetechlabs/core-team @aetechlabs/frontend-engineering @aetechlabs/community-operations
+
+# Documentation and knowledge base
+*.md @aetechlabs/documentation @aetechlabs/core-team
+/docs/ @aetechlabs/documentation
+/wiki/ @aetechlabs/documentation
+
+# Release and versioning artifacts
+/CHANGELOG.md @aetechlabs/release-management @aetechlabs/core-team
+/RELEASE_NOTES.md @aetechlabs/release-management
+/.github/releases/ @aetechlabs/release-management
+/workflow-templates/release.yml @aetechlabs/release-management @aetechlabs/infrastructure-security
+
+# Community operations — contribution and community health
+/CODE_OF_CONDUCT.md @aetechlabs/community-operations @aetechlabs/core-team
+/CONTRIBUTING.md @aetechlabs/community-operations @aetechlabs/engineering @aetechlabs/core-team
+/FUNDING.yml @aetechlabs/community-operations @aetechlabs/core-team
