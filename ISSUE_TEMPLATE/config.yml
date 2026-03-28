@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Security Vulnerability
+    url: https://github.com/aetechlabs/.github/blob/main/SECURITY.md
+    about: "Please report security vulnerabilities via our Security Policy — do NOT open a public issue."
+  - name: 💬 General Discussion
+    url: https://github.com/orgs/aetechlabs/discussions
+    about: "For general questions, ideas, or discussions about our projects."
+  - name: 📧 Contact Us
+    url: mailto:contact@aetechlabs.com
+    about: "Reach out to the AETECH RESEARCH LABS team directly."
