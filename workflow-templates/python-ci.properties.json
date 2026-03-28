@@ -1,6 +1,6 @@
-name: CI — Python
-description: Standard Python CI pipeline with linting, testing, and coverage reporting.
-iconName: octicon workflow
-categories:
-  - Testing
-  - Python
+{
+  "name": "CI — Python",
+  "description": "Standard Python CI pipeline with linting, testing, and coverage reporting.",
+  "iconName": "octicon workflow",
+  "categories": ["Testing", "Python"]
+}
