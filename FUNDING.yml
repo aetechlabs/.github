@@ -1,0 +1,19 @@
+# Funding configuration for AETECH RESEARCH LABS LIMITED
+# Displayed on the "Sponsor" button on repositories.
+# Uncomment and fill in the platforms your organization uses.
+
+# GitHub Sponsors
+# github: [aetechlabs]
+
+# Open Collective
+# open_collective: aetechlabs
+
+# Patreon
+# patreon: aetechlabs
+
+# Ko-fi
+# ko_fi: aetechlabs
+
+# Custom sponsorship / funding URLs
+custom:
+  - https://aetechlabs.com/support
