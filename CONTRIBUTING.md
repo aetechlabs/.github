@@ -45,7 +45,7 @@ Before you begin, ensure you have:
 1. **Fork** the repository to your GitHub account
 2. **Clone** your fork locally:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/aetechlabs/<repo-name>.git
    cd <repo-name>
    ```
 3. **Add the upstream remote:**
